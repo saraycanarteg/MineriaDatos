@@ -1,0 +1,35 @@
+cwe,nombre_cwe,owasp2025,api2023,fuente_owasp2025,fuente_api2023
+CWE-22,Path Traversal,A01:2025,,oficial,
+CWE-601,Open Redirect,A01:2025,,oficial,
+CWE-639,Authorization Bypass Through User-Controlled Key,A01:2025,API1:2023,oficial,referencia oficial API1
+CWE-285,Improper Authorization,A01:2025,API5:2023,oficial,referencia oficial API5
+CWE-918,Server-Side Request Forgery,A01:2025,API7:2023,oficial,referencia oficial API7
+CWE-16,Configuration,A02:2025,API8:2023,oficial,referencia oficial API8
+CWE-942,Permissive Cross-domain Policy,A02:2025,API8:2023,oficial,referencia oficial API8
+CWE-489,Active Debug Code,A02:2025,API8:2023,oficial,criterio del equipo
+CWE-614,Sensitive Cookie Without Secure Attribute,A02:2025,,oficial,
+CWE-611,XML External Entity (XXE),A02:2025,,oficial,
+CWE-250,Execution with Unnecessary Privileges,A02:2025,API8:2023,criterio del equipo,criterio del equipo
+CWE-1104,Use of Unmaintained Third Party Components,A03:2025,,oficial,
+CWE-327,Broken or Risky Cryptographic Algorithm,A04:2025,,oficial,
+CWE-328,Use of Weak Hash,A04:2025,,oficial,
+CWE-330,Use of Insufficiently Random Values,A04:2025,,oficial,
+CWE-347,Improper Verification of Cryptographic Signature,A04:2025,API2:2023,oficial,criterio del equipo
+CWE-89,SQL Injection,A05:2025,,oficial,
+CWE-78,OS Command Injection,A05:2025,,oficial,
+CWE-79,Cross-site Scripting,A05:2025,,oficial,
+CWE-90,LDAP Injection,A05:2025,,oficial,
+CWE-643,XPath Injection,A05:2025,,oficial,
+CWE-94,Code Injection,A05:2025,,oficial,
+CWE-501,Trust Boundary Violation,A06:2025,,oficial,
+CWE-770,Allocation of Resources Without Limits or Throttling,A06:2025,API4:2023,criterio del equipo,referencia oficial API4
+CWE-287,Improper Authentication,A07:2025,API2:2023,oficial,criterio del equipo
+CWE-798,Use of Hard-coded Credentials,A07:2025,API2:2023,oficial,criterio del equipo
+CWE-307,Improper Restriction of Excessive Authentication Attempts,A07:2025,API2:2023,oficial,referencia oficial API2
+CWE-502,Deserialization of Untrusted Data,A08:2025,,oficial,
+CWE-915,Mass Assignment,A08:2025,API3:2023,oficial,referencia oficial API3
+CWE-117,Improper Output Neutralization for Logs,A09:2025,,oficial,
+CWE-532,Insertion of Sensitive Information into Log File,A09:2025,,oficial,
+CWE-778,Insufficient Logging,A09:2025,,oficial,
+CWE-209,Error Message Containing Sensitive Information,A10:2025,API8:2023,oficial,referencia oficial API8
+CWE-755,Improper Handling of Exceptional Conditions,A10:2025,,oficial,
