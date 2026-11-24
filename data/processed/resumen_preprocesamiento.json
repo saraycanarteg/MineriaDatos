@@ -1,0 +1,20 @@
+{
+  "registros_iniciales": 1541,
+  "descartados_por_validacion": 0,
+  "descartados_por_conflicto_de_etiqueta": 0,
+  "duplicados_tras_normalizar": 0,
+  "registros_finales": 1541,
+  "por_particion": {
+    "train": 1031,
+    "val": 247,
+    "test": 263
+  },
+  "caracteristicas_por_bloque": {
+    "tfidf": 5000,
+    "ind": 46,
+    "tipo": 8
+  },
+  "caracteristicas_totales": 5054,
+  "minimo_por_estrato_tras_balanceo": 17,
+  "train_balanceado": 1177
+}
