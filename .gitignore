@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Repositorios fuente clonados por scripts/descargar_fuentes.py
+data/raw/
